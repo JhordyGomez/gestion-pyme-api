@@ -1,0 +1,4 @@
+# Requisitos del proyecto API - Sistema de gestión para PYMEs
+# El proyecto fue desarrollado con la biblioteca estándar de Python 3
+# (http.server, json y re); no requiere dependencias externas.
+# Requisito: Python 3.8 o superior.
